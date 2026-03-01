@@ -2,7 +2,7 @@ var ABOUT_US = {
   overview: {
     heading: "Who We Are",
     intro: [
-      "OutAmigos Foundation was founded on September 23, 2020, by Mr. Govind Shukla (Founder and CEO). We are a Section 8 registered non-profit organization based in Chhattisgarh, working to build a more inclusive and compassionate society.",
+      "OutAmigos Foundation was founded on 1st March 2026, by Mr. Rishav Biswas (Founder and CEO). We are a Section 8 registered non-profit organization based in Chhattisgarh, working to build a more inclusive and compassionate society.",
       "With a strong network of volunteers, professionals, and partners, we focus on practical action in food support, education, women empowerment, animal welfare, environmental sustainability, and skill development."
     ],
     highlights: [
@@ -79,13 +79,13 @@ var ABOUT_US = {
   ],
   timeline: [
     {
-      year: "2020",
+      year: "2026",
       title: "Foundation Established",
       description:
         "OutAmigos Foundation began operations with a mission to serve vulnerable communities."
     },
     {
-      year: "2021+",
+      year: "2026+",
       title: "Compliance and Trust Systems",
       description:
         "Strengthened governance through Section 8 registration and key compliance certifications."
@@ -113,7 +113,7 @@ var ABOUT_US = {
   ],
   leadership: [
     {
-      name: "Mr. Govind Shukla",
+      name: "Mr. Rishav Biswas",
       role: "Founder and CEO",
       image: "images/1738236437.jpg",
       bio:
@@ -177,7 +177,7 @@ var ABOUT_US = {
 
 // Legacy support for older templates that still expect a single text paragraph.
 var ABOUT_US_TEXT =
-  "OutAmigos Foundation was founded on September 23, 2020, by Mr. Govind Shukla (Founder and CEO). " +
+  "OutAmigos Foundation was founded on 1st March 2026, by Mr. Rishav Biswas (Founder and CEO). " +
   "It is a Section 8 registered non-profit organization based in Chhattisgarh with 80G, 12A, CSR-1, NITI Aayog, and ISO 9001:2015 compliance. " +
   "Our key initiatives are Project Seva, Project Bachpanshala, Project Jeev, Project Udaan, Project Prakriti, and Project Vikas. " +
   "Together with volunteers and partners, we work for food security, education, women empowerment, animal welfare, sustainability, and inclusion across India.";
